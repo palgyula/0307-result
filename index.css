@@ -1,0 +1,118 @@
+*{
+    margin: 0;
+    font-family: Hanken Grotesk;
+}
+
+section{
+display: flex;
+margin: 330px 0 0 700px;
+border-radius: 10px;
+}
+
+#kor{
+    background-image: linear-gradient(180deg,  #4b24cd, #4b24cd);
+    border-radius: 100%;
+    padding: 5px 5px 5px 5px;
+    height: 150px;
+    width: 150px;
+    margin-left: 25px;
+    margin-top: 25px;
+}
+
+#elsoart{
+    text-align: center;
+    margin: 0 0 0 100px;
+    max-width: 200px;
+    background-image: linear-gradient(180deg, #6844ff, #322deb);
+    padding: 35px 50px 55px 50px;
+    border-radius: 30px;
+}
+
+
+
+article article div:nth-of-type(1)
+{
+    display: flex;
+    background-color: #fff6f7;
+    border-radius: 10px;
+    height: 50px;
+    width: 250px;
+}
+
+article article div:nth-of-type(2)
+{
+    display: flex;
+    background-color: #fffaf4;
+    height: 50px;
+    width: 250px;
+}
+
+article article div:nth-of-type(3)
+{
+display: flex;
+   background-color: #f2fdf9;
+   height: 50px;
+    width: 250px;
+}
+
+article article div:nth-of-type(4)
+{
+    display: flex;
+    background-color:#f4f4fe;
+    height: 50px;
+    width: 250px;
+}
+
+#reakcio{
+    color: hsl(0, 100%, 67%);
+}
+
+#memoria{
+    color: hsl(39, 100%, 56%);
+}
+
+#verbalis{
+color:  hsl(166, 100%, 37%);
+}
+
+#visual{
+color: hsl(234, 85%, 45%);
+}
+
+article:nth-of-type(1) h1:nth-of-type(1)
+{
+color: #c8b9fd;
+}
+
+#hosszuszoveg{
+color: #c8b9fd;
+margin-top: 20px;
+font-size: 16px;
+}
+
+#szam{
+font-size: 80px;
+color: white;
+margin-top: 10px;
+}
+
+#of100{
+font-size: 15px;
+color: #7d72f1;
+margin-top: 20px;
+}
+
+#great{
+    color: white;
+    margin-top: 30px;
+    font-size: 28px;
+}
+
+#summary{
+    margin: 35px 0 0 30px;
+}
+
+article article{
+    font-size: 20px;
+    margin-left: 30px;
+}
